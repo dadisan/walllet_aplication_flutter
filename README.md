@@ -50,28 +50,46 @@ Pastikan Anda telah menginstal [Flutter](https://flutter.dev/docs/get-started/in
 
 ## Struktur Proyek
 
----
-
+```
 lib/
-core/
-global_component/ - typography.dart - button_component.dart - progress_bar_component.dart - avatar_component.dart - network_image_loader.dart
-config/ - main_app.dart
-utils/ - route_utils.dart
-constants/ - string_constants.dart - color_constants.dart - image_constants.dart
+  core/
+    global_component/
+      - typography.dart
+      - button_component.dart
+      - progress_bar_component.dart
+      - avatar_component.dart
+      - network_image_loader.dart
+    config/
+      - main_app.dart
+    utils/
+      - route_utils.dart
+    constants/
+      - string_constants.dart
+      - color_constants.dart
+      - image_constants.dart
 
-data/
-transaction/
-model_responses/ - transaction_response.dart
-dummy/ - dummy_transactions.dart
-profile/
-model_responses/ - profile_response.dart
-dummy/ - dummy_profile.dart
+  data/
+    transaction/
+      model_responses/
+        - transaction_response.dart
+      dummy/
+        - dummy_transactions.dart
+    profile/
+      model_responses/
+        - profile_response.dart
+      dummy/
+        - dummy_profile.dart
 
-features/
-wallet_dashboard/
-screen/ - dashboard_screen.dart
-widgets/ - card_widget.dart - transaction_list_widget.dart - balance_widget.dart
-controller/ - dashboard_controller.dart
+  features/
+    wallet_dashboard/
+      screen/
+        - dashboard_screen.dart
+      widgets/
+        - card_widget.dart
+        - transaction_list_widget.dart
+        - balance_widget.dart
+      controller/
+        - dashboard_controller.dart
 
     transaction_management/
       screen/
@@ -103,8 +121,7 @@ controller/ - dashboard_controller.dart
     transfer_status/
       screen/
         - succes_screen.dart
-
----
+```
 
 ## Getting Started
 
