@@ -16,9 +16,9 @@ https://cdn.dribbble.com/userupload/3072219/file/original-f9f46d58891a85d226f146
 
 ## Fitur
 
-- **Onboarding**: Layar sambutan untuk memperkenalkan aplikasi kepada pengguna baru.
-- **Manajemen Dompet**: Melihat total saldo, menambahkan dompet baru, dan melihat detail dompet.
-- **Transfer Uang**: Mengirim uang ke pengguna lain dengan memasukkan jumlah transfer.
+- **Onboarding**: Layar sambutan aplikasi.
+- **Dashboard**: Melihat total saldo, detail transaksi terbaru, dan melihat profil user.
+- **Transfer Uang**: Membayar kebutuhan sesuai kategori.
 
 ## Instalasi
 
