@@ -33,7 +33,7 @@ Pastikan Anda telah menginstal [Flutter](https://flutter.dev/docs/get-started/in
 2. **Masuk ke direktori proyek:**
 
    ```bash
-   cd MobileProgramming-MoneyWalletMobileApp-Flutter/wallet_app
+   cd wallet_aplication_flutter
    ```
 
 3. **Instal dependensi:**
