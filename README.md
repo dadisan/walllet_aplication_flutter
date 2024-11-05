@@ -27,7 +27,7 @@ Pastikan Anda telah menginstal [Flutter](https://flutter.dev/docs/get-started/in
 1. **Clone repositori ini:**
 
    ```bash
-   git clone https://github.com/dadisan/MobileProgramming-MoneyWalletMobileApp-Flutter.git
+   git clone https://github.com/dadisan/walllet_aplication_flutter.git
    ```
 
 2. **Masuk ke direktori proyek:**
